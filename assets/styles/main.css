@@ -18,6 +18,7 @@ body {
 
 h1 {
   font-size: 250%;
+  color: whitesmoke;
 }
 
 p {
@@ -103,22 +104,22 @@ img:last-of-type {
 }
 
 #title {
-  background-image: url("https://xzdl43v0mdf2m45tz2aj7kkv35-wpengine.netdna-ssl.com/wp-content/uploads/2010/10/green-780x400.jpg");
+  background-image: url("../images/Cascades-Bridge.jpeg");
   z-index: 2;
 }
 
 #title h1 {
   transform: translateZ(0.25px) scale(0.75);
-  transform-origin: 50% 100%;
+  transform-origin: 50% 1000%;
 }
 
 #slide1:before {
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRROVZNd48f85qKfmWqaar4sbplufBKKPvPuQ&usqp=CAU");
+  background-image: url("../images/Grand_Prismatic.jpeg");
   transform: translateZ(-1px) scale(2);
 }
 
 #slide2 {
-  background-image: url("https://utilitybuzz.com/wp-content/uploads/cloud_comput_connect_blue-100787048-large.3x2.jpg");
+  background-image: url("../images/Bus-Interior.jpeg");
   z-index: 2;
 }
 
